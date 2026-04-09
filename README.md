@@ -1,6 +1,4 @@
-# SAP-Capstone-Project
-NLP-powered customer complaint classification system
-# SAP AI Complaint Router
+# NLP Powered Customer Complaint Classification and Routing 
 
 **NLP-Driven Intelligent Customer Complaint Classification and 
 Automated Routing System Integrated with SAP SD Module**
