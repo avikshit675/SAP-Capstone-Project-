@@ -1,0 +1,201 @@
+ticket_id,complaint,category,route_to,priority,customer_id,cleaned_complaint,text_length,word_count
+TKT1240,I have an issue with courier issue,Delivery Problem,Logistics Team,MEDIUM,CUST468,i have an issue with courier issue,34,7
+TKT1830,transaction password reset,Account Issue,IT Support Team,LOW,CUST887,transaction password reset,26,3
+TKT1482,urgent incorrect bill,Billing Issue,Finance Team,HIGH,CUST111,urgent incorrect bill,21,3
+TKT1803,urgent billing error,Billing Issue,Finance Team,HIGH,CUST214,urgent billing error,20,3
+TKT1002,I have an issue with defective unit,Product Defect,Quality Team,HIGH,CUST472,i have an issue with defective unit,35,7
+TKT1541,regarding cannot login,Account Issue,IT Support Team,LOW,CUST950,regarding cannot login,22,3
+TKT1497,asap package missing,Delivery Problem,Logistics Team,MEDIUM,CUST285,asap package missing,20,3
+TKT1775,asap manufacturing defect,Product Defect,Quality Team,HIGH,CUST382,asap manufacturing defect,25,3
+TKT1535,urgent delivery delayed,Delivery Problem,Logistics Team,MEDIUM,CUST803,urgent delivery delayed,23,3
+TKT1080,I have an issue with refund status,Refund Request,Finance Team,MEDIUM,CUST234,i have an issue with refund status,34,7
+TKT1256,my order login problem,Account Issue,IT Support Team,LOW,CUST944,my order login problem,22,4
+TKT1333,urgent courier issue,Delivery Problem,Logistics Team,MEDIUM,CUST806,urgent courier issue,20,3
+TKT1625,transaction account suspended,Account Issue,IT Support Team,LOW,CUST771,transaction account suspended,29,3
+TKT1851,I have an issue with quality issue,Product Defect,Quality Team,HIGH,CUST555,i have an issue with quality issue,34,7
+TKT1821,please help login problem,Account Issue,IT Support Team,LOW,CUST531,please help login problem,25,4
+TKT1609,my order defective unit,Product Defect,Quality Team,HIGH,CUST801,my order defective unit,23,4
+TKT1665,urgent invoice wrong amount,Billing Issue,Finance Team,HIGH,CUST562,urgent invoice wrong amount,27,4
+TKT1707,asap refund not received,Refund Request,Finance Team,MEDIUM,CUST827,asap refund not received,24,4
+TKT1491,please help wrong tax amount,Billing Issue,Finance Team,HIGH,CUST961,please help wrong tax amount,28,5
+TKT1872,complaint about account access issue,Account Issue,IT Support Team,LOW,CUST733,complaint about account access issue,36,5
+TKT1503,I have an issue with refund not received,Refund Request,Finance Team,MEDIUM,CUST330,i have an issue with refund not received,40,8
+TKT1181,urgent wrong item delivered,Delivery Problem,Logistics Team,MEDIUM,CUST639,urgent wrong item delivered,27,4
+TKT1660,I have an issue with refund not received,Refund Request,Finance Team,MEDIUM,CUST925,i have an issue with refund not received,40,8
+TKT1525,my order request for refund,Refund Request,Finance Team,MEDIUM,CUST435,my order request for refund,27,5
+TKT1282,my order account access issue,Account Issue,IT Support Team,LOW,CUST976,my order account access issue,29,5
+TKT1921,transaction tracking not updated,Delivery Problem,Logistics Team,MEDIUM,CUST448,transaction tracking not updated,32,4
+TKT1187,I have an issue with charged twice,Billing Issue,Finance Team,HIGH,CUST897,i have an issue with charged twice,34,7
+TKT1587,please help duplicate charge,Billing Issue,Finance Team,HIGH,CUST990,please help duplicate charge,28,4
+TKT1874,complaint about defective unit,Product Defect,Quality Team,HIGH,CUST162,complaint about defective unit,30,4
+TKT1111,asap account locked,Account Issue,IT Support Team,LOW,CUST756,asap account locked,19,3
+TKT1405,my order billing error,Billing Issue,Finance Team,HIGH,CUST989,my order billing error,22,4
+TKT1426,urgent wrong item delivered,Delivery Problem,Logistics Team,MEDIUM,CUST817,urgent wrong item delivered,27,4
+TKT1727,customer id account locked,Account Issue,IT Support Team,LOW,CUST455,customer id account locked,26,4
+TKT1554,customer id poor quality,Product Defect,Quality Team,HIGH,CUST223,customer id poor quality,24,4
+TKT1508,asap account access issue,Account Issue,IT Support Team,LOW,CUST729,asap account access issue,25,4
+TKT1769,I have an issue with defective unit,Product Defect,Quality Team,HIGH,CUST367,i have an issue with defective unit,35,7
+TKT1231,I have an issue with damaged goods,Delivery Problem,Logistics Team,MEDIUM,CUST982,i have an issue with damaged goods,34,7
+TKT1192,complaint about charged twice,Billing Issue,Finance Team,HIGH,CUST198,complaint about charged twice,29,4
+TKT1380,I have an issue with password reset,Account Issue,IT Support Team,LOW,CUST282,i have an issue with password reset,35,7
+TKT1722,please help password reset,Account Issue,IT Support Team,LOW,CUST961,please help password reset,26,4
+TKT1425,customer id late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST769,customer id late shipment,25,4
+TKT1842,I have an issue with payment not reflected,Billing Issue,Finance Team,HIGH,CUST654,i have an issue with payment not reflected,42,8
+TKT1437,my order account suspended,Account Issue,IT Support Team,LOW,CUST862,my order account suspended,26,4
+TKT1026,please help defective unit,Product Defect,Quality Team,HIGH,CUST491,please help defective unit,26,4
+TKT1810,asap billing error,Billing Issue,Finance Team,HIGH,CUST998,asap billing error,18,3
+TKT1630,asap wrong tax amount,Billing Issue,Finance Team,HIGH,CUST198,asap wrong tax amount,21,4
+TKT1369,I have an issue with refund pending,Refund Request,Finance Team,MEDIUM,CUST438,i have an issue with refund pending,35,7
+TKT1896,asap late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST861,asap late shipment,18,3
+TKT1906,urgent manufacturing defect,Product Defect,Quality Team,HIGH,CUST366,urgent manufacturing defect,27,3
+TKT1897,customer id overcharged,Billing Issue,Finance Team,HIGH,CUST399,customer id overcharged,23,3
+TKT1295,my order profile not updating,Account Issue,IT Support Team,LOW,CUST281,my order profile not updating,29,5
+TKT1799,complaint about quality issue,Product Defect,Quality Team,HIGH,CUST914,complaint about quality issue,29,4
+TKT1881,please help poor quality,Product Defect,Quality Team,HIGH,CUST980,please help poor quality,24,4
+TKT1136,urgent late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST214,urgent late shipment,20,3
+TKT1880,urgent account locked,Account Issue,IT Support Team,LOW,CUST518,urgent account locked,21,3
+TKT1441,urgent delivery delayed,Delivery Problem,Logistics Team,MEDIUM,CUST384,urgent delivery delayed,23,3
+TKT1453,I have an issue with courier issue,Delivery Problem,Logistics Team,MEDIUM,CUST159,i have an issue with courier issue,34,7
+TKT1148,complaint about cancel and refund,Refund Request,Finance Team,MEDIUM,CUST175,complaint about cancel and refund,33,5
+TKT1096,urgent courier issue,Delivery Problem,Logistics Team,MEDIUM,CUST884,urgent courier issue,20,3
+TKT1936,transaction late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST287,transaction late shipment,25,3
+TKT1559,urgent wrong item delivered,Delivery Problem,Logistics Team,MEDIUM,CUST101,urgent wrong item delivered,27,4
+TKT1234,complaint about defective unit,Product Defect,Quality Team,HIGH,CUST730,complaint about defective unit,30,4
+TKT1890,asap refund not received,Refund Request,Finance Team,MEDIUM,CUST186,asap refund not received,24,4
+TKT1290,my order quality issue,Product Defect,Quality Team,HIGH,CUST423,my order quality issue,22,4
+TKT1965,asap return and refund,Refund Request,Finance Team,MEDIUM,CUST751,asap return and refund,22,4
+TKT1242,urgent money back,Refund Request,Finance Team,MEDIUM,CUST542,urgent money back,17,3
+TKT1417,asap tracking not updated,Delivery Problem,Logistics Team,MEDIUM,CUST797,asap tracking not updated,25,4
+TKT1189,please help payment not reflected,Billing Issue,Finance Team,HIGH,CUST245,please help payment not reflected,33,5
+TKT1553,customer id wrong item delivered,Delivery Problem,Logistics Team,MEDIUM,CUST506,customer id wrong item delivered,32,5
+TKT1977,complaint about defective unit,Product Defect,Quality Team,HIGH,CUST148,complaint about defective unit,30,4
+TKT1538,my order billing error,Billing Issue,Finance Team,HIGH,CUST709,my order billing error,22,4
+TKT1962,customer id profile not updating,Account Issue,IT Support Team,LOW,CUST635,customer id profile not updating,32,5
+TKT1864,transaction quality issue,Product Defect,Quality Team,HIGH,CUST766,transaction quality issue,25,3
+TKT1082,asap return and refund,Refund Request,Finance Team,MEDIUM,CUST569,asap return and refund,22,4
+TKT1739,customer id item broken,Product Defect,Quality Team,HIGH,CUST295,customer id item broken,23,4
+TKT1000,I have an issue with refund not received,Refund Request,Finance Team,MEDIUM,CUST800,i have an issue with refund not received,40,8
+TKT1301,transaction package missing,Delivery Problem,Logistics Team,MEDIUM,CUST485,transaction package missing,27,3
+TKT1528,transaction forgot password,Account Issue,IT Support Team,LOW,CUST616,transaction forgot password,27,3
+TKT1584,transaction quality issue,Product Defect,Quality Team,HIGH,CUST653,transaction quality issue,25,3
+TKT1877,customer id tracking not updated,Delivery Problem,Logistics Team,MEDIUM,CUST106,customer id tracking not updated,32,5
+TKT1740,regarding order not delivered,Delivery Problem,Logistics Team,MEDIUM,CUST169,regarding order not delivered,29,4
+TKT1335,customer id charged twice,Billing Issue,Finance Team,HIGH,CUST966,customer id charged twice,25,4
+TKT1312,asap product stopped working,Product Defect,Quality Team,HIGH,CUST417,asap product stopped working,28,4
+TKT1925,urgent defective unit,Product Defect,Quality Team,HIGH,CUST363,urgent defective unit,21,3
+TKT1276,please help request for refund,Refund Request,Finance Team,MEDIUM,CUST577,please help request for refund,30,5
+TKT1798,please help incorrect bill,Billing Issue,Finance Team,HIGH,CUST858,please help incorrect bill,26,4
+TKT1893,customer id refund not received,Refund Request,Finance Team,MEDIUM,CUST588,customer id refund not received,31,5
+TKT1618,complaint about money back,Refund Request,Finance Team,MEDIUM,CUST892,complaint about money back,26,4
+TKT1228,I have an issue with want refund,Refund Request,Finance Team,MEDIUM,CUST724,i have an issue with want refund,32,7
+TKT1071,complaint about poor quality,Product Defect,Quality Team,HIGH,CUST332,complaint about poor quality,28,4
+TKT1044,complaint about billing error,Billing Issue,Finance Team,HIGH,CUST727,complaint about billing error,29,4
+TKT1433,my order cancel and refund,Refund Request,Finance Team,MEDIUM,CUST341,my order cancel and refund,26,5
+TKT1985,please help request for refund,Refund Request,Finance Team,MEDIUM,CUST203,please help request for refund,30,5
+TKT1529,regarding order not delivered,Delivery Problem,Logistics Team,MEDIUM,CUST218,regarding order not delivered,29,4
+TKT1258,regarding damaged goods,Delivery Problem,Logistics Team,MEDIUM,CUST749,regarding damaged goods,23,3
+TKT1780,regarding item damaged,Product Defect,Quality Team,HIGH,CUST115,regarding item damaged,22,3
+TKT1793,complaint about money back,Refund Request,Finance Team,MEDIUM,CUST406,complaint about money back,26,4
+TKT1252,customer id manufacturing defect,Product Defect,Quality Team,HIGH,CUST425,customer id manufacturing defect,32,4
+TKT1016,urgent incorrect bill,Billing Issue,Finance Team,HIGH,CUST971,urgent incorrect bill,21,3
+TKT1476,complaint about wrong tax amount,Billing Issue,Finance Team,HIGH,CUST469,complaint about wrong tax amount,32,5
+TKT1125,transaction late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST936,transaction late shipment,25,3
+TKT1666,please help package missing,Delivery Problem,Logistics Team,MEDIUM,CUST903,please help package missing,27,4
+TKT1930,asap incorrect bill,Billing Issue,Finance Team,HIGH,CUST293,asap incorrect bill,19,3
+TKT1320,urgent refund status,Refund Request,Finance Team,MEDIUM,CUST490,urgent refund status,20,3
+TKT1575,please help money back,Refund Request,Finance Team,MEDIUM,CUST730,please help money back,22,4
+TKT1908,customer id poor quality,Product Defect,Quality Team,HIGH,CUST283,customer id poor quality,24,4
+TKT1988,regarding login problem,Account Issue,IT Support Team,LOW,CUST835,regarding login problem,23,3
+TKT1447,customer id refund status,Refund Request,Finance Team,MEDIUM,CUST402,customer id refund status,25,4
+TKT1219,complaint about refund status,Refund Request,Finance Team,MEDIUM,CUST294,complaint about refund status,29,4
+TKT1084,urgent defective unit,Product Defect,Quality Team,HIGH,CUST376,urgent defective unit,21,3
+TKT1163,asap request for refund,Refund Request,Finance Team,MEDIUM,CUST544,asap request for refund,23,4
+TKT1041,my order cancel and refund,Refund Request,Finance Team,MEDIUM,CUST897,my order cancel and refund,26,5
+TKT1128,customer id duplicate charge,Billing Issue,Finance Team,HIGH,CUST615,customer id duplicate charge,28,4
+TKT1332,customer id wrong tax amount,Billing Issue,Finance Team,HIGH,CUST622,customer id wrong tax amount,28,5
+TKT1919,transaction poor quality,Product Defect,Quality Team,HIGH,CUST422,transaction poor quality,24,3
+TKT1633,regarding overcharged,Billing Issue,Finance Team,HIGH,CUST479,regarding overcharged,21,2
+TKT1996,urgent cannot login,Account Issue,IT Support Team,LOW,CUST325,urgent cannot login,19,3
+TKT1782,my order account locked,Account Issue,IT Support Team,LOW,CUST201,my order account locked,23,4
+TKT1582,complaint about account access issue,Account Issue,IT Support Team,LOW,CUST852,complaint about account access issue,36,5
+TKT1836,please help charged twice,Billing Issue,Finance Team,HIGH,CUST672,please help charged twice,25,4
+TKT1955,complaint about account suspended,Account Issue,IT Support Team,LOW,CUST676,complaint about account suspended,33,4
+TKT1495,customer id incorrect bill,Billing Issue,Finance Team,HIGH,CUST965,customer id incorrect bill,26,4
+TKT1514,please help cannot login,Account Issue,IT Support Team,LOW,CUST731,please help cannot login,24,4
+TKT1856,urgent money back,Refund Request,Finance Team,MEDIUM,CUST423,urgent money back,17,3
+TKT1891,complaint about money back,Refund Request,Finance Team,MEDIUM,CUST468,complaint about money back,26,4
+TKT1805,I have an issue with product not working,Product Defect,Quality Team,HIGH,CUST657,i have an issue with product not working,40,8
+TKT1460,transaction incorrect bill,Billing Issue,Finance Team,HIGH,CUST600,transaction incorrect bill,26,3
+TKT1758,please help poor quality,Product Defect,Quality Team,HIGH,CUST131,please help poor quality,24,4
+TKT1323,transaction forgot password,Account Issue,IT Support Team,LOW,CUST860,transaction forgot password,27,3
+TKT1020,I have an issue with refund pending,Refund Request,Finance Team,MEDIUM,CUST561,i have an issue with refund pending,35,7
+TKT1702,my order account suspended,Account Issue,IT Support Team,LOW,CUST635,my order account suspended,26,4
+TKT1530,urgent package missing,Delivery Problem,Logistics Team,MEDIUM,CUST244,urgent package missing,22,3
+TKT1484,asap product not working,Product Defect,Quality Team,HIGH,CUST666,asap product not working,24,4
+TKT1747,complaint about overcharged,Billing Issue,Finance Team,HIGH,CUST544,complaint about overcharged,27,3
+TKT1274,asap poor quality,Product Defect,Quality Team,HIGH,CUST297,asap poor quality,17,3
+TKT1115,please help late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST850,please help late shipment,25,4
+TKT1103,urgent money back,Refund Request,Finance Team,MEDIUM,CUST899,urgent money back,17,3
+TKT1672,please help courier issue,Delivery Problem,Logistics Team,MEDIUM,CUST501,please help courier issue,25,4
+TKT1109,my order refund pending,Refund Request,Finance Team,MEDIUM,CUST449,my order refund pending,23,4
+TKT1452,I have an issue with invoice wrong amount,Billing Issue,Finance Team,HIGH,CUST623,i have an issue with invoice wrong amount,41,8
+TKT1849,asap wrong tax amount,Billing Issue,Finance Team,HIGH,CUST432,asap wrong tax amount,21,4
+TKT1061,my order password reset,Account Issue,IT Support Team,LOW,CUST863,my order password reset,23,4
+TKT1781,regarding wrong tax amount,Billing Issue,Finance Team,HIGH,CUST632,regarding wrong tax amount,26,4
+TKT1241,complaint about return and refund,Refund Request,Finance Team,MEDIUM,CUST712,complaint about return and refund,33,5
+TKT1773,my order late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST553,my order late shipment,22,4
+TKT1638,transaction profile not updating,Account Issue,IT Support Team,LOW,CUST744,transaction profile not updating,32,4
+TKT1943,regarding wrong tax amount,Billing Issue,Finance Team,HIGH,CUST643,regarding wrong tax amount,26,4
+TKT1444,my order password reset,Account Issue,IT Support Team,LOW,CUST899,my order password reset,23,4
+TKT1486,asap account access issue,Account Issue,IT Support Team,LOW,CUST911,asap account access issue,25,4
+TKT1407,please help delivery delayed,Delivery Problem,Logistics Team,MEDIUM,CUST315,please help delivery delayed,28,4
+TKT1140,complaint about damaged goods,Delivery Problem,Logistics Team,MEDIUM,CUST291,complaint about damaged goods,29,4
+TKT1268,asap profile not updating,Account Issue,IT Support Team,LOW,CUST478,asap profile not updating,25,4
+TKT1696,my order cannot login,Account Issue,IT Support Team,LOW,CUST697,my order cannot login,21,4
+TKT1566,regarding courier issue,Delivery Problem,Logistics Team,MEDIUM,CUST217,regarding courier issue,23,3
+TKT1403,transaction product stopped working,Product Defect,Quality Team,HIGH,CUST616,transaction product stopped working,35,4
+TKT1173,customer id password reset,Account Issue,IT Support Team,LOW,CUST775,customer id password reset,26,4
+TKT1539,my order login problem,Account Issue,IT Support Team,LOW,CUST713,my order login problem,22,4
+TKT1983,complaint about password reset,Account Issue,IT Support Team,LOW,CUST839,complaint about password reset,30,4
+TKT1767,complaint about request for refund,Refund Request,Finance Team,MEDIUM,CUST478,complaint about request for refund,34,5
+TKT1305,please help forgot password,Account Issue,IT Support Team,LOW,CUST276,please help forgot password,27,4
+TKT1384,urgent product not working,Product Defect,Quality Team,HIGH,CUST513,urgent product not working,26,4
+TKT1523,complaint about damaged goods,Delivery Problem,Logistics Team,MEDIUM,CUST138,complaint about damaged goods,29,4
+TKT1360,urgent password reset,Account Issue,IT Support Team,LOW,CUST300,urgent password reset,21,3
+TKT1285,asap account locked,Account Issue,IT Support Team,LOW,CUST854,asap account locked,19,3
+TKT1901,please help return and refund,Refund Request,Finance Team,MEDIUM,CUST198,please help return and refund,29,5
+TKT1056,I have an issue with request for refund,Refund Request,Finance Team,MEDIUM,CUST222,i have an issue with request for refund,39,8
+TKT1940,complaint about invoice wrong amount,Billing Issue,Finance Team,HIGH,CUST769,complaint about invoice wrong amount,36,5
+TKT1337,I have an issue with charged twice,Billing Issue,Finance Team,HIGH,CUST158,i have an issue with charged twice,34,7
+TKT1610,urgent wrong item delivered,Delivery Problem,Logistics Team,MEDIUM,CUST410,urgent wrong item delivered,27,4
+TKT1664,please help delivery delayed,Delivery Problem,Logistics Team,MEDIUM,CUST322,please help delivery delayed,28,4
+TKT1676,asap refund status,Refund Request,Finance Team,MEDIUM,CUST785,asap refund status,18,3
+TKT1309,transaction refund pending,Refund Request,Finance Team,MEDIUM,CUST575,transaction refund pending,26,3
+TKT1485,I have an issue with refund not received,Refund Request,Finance Team,MEDIUM,CUST832,i have an issue with refund not received,40,8
+TKT1668,regarding charged twice,Billing Issue,Finance Team,HIGH,CUST289,regarding charged twice,23,3
+TKT1700,regarding poor quality,Product Defect,Quality Team,HIGH,CUST169,regarding poor quality,22,3
+TKT1623,I have an issue with account locked,Account Issue,IT Support Team,LOW,CUST636,i have an issue with account locked,35,7
+TKT1054,urgent item damaged,Product Defect,Quality Team,HIGH,CUST152,urgent item damaged,19,3
+TKT1302,urgent package missing,Delivery Problem,Logistics Team,MEDIUM,CUST446,urgent package missing,22,3
+TKT1928,customer id cannot login,Account Issue,IT Support Team,LOW,CUST240,customer id cannot login,24,4
+TKT1009,complaint about refund status,Refund Request,Finance Team,MEDIUM,CUST230,complaint about refund status,29,4
+TKT1862,urgent manufacturing defect,Product Defect,Quality Team,HIGH,CUST662,urgent manufacturing defect,27,3
+TKT1004,I have an issue with account locked,Account Issue,IT Support Team,LOW,CUST591,i have an issue with account locked,35,7
+TKT1993,I have an issue with item broken,Product Defect,Quality Team,HIGH,CUST324,i have an issue with item broken,32,7
+TKT1549,customer id delivery delayed,Delivery Problem,Logistics Team,MEDIUM,CUST320,customer id delivery delayed,28,4
+TKT1052,urgent charged twice,Billing Issue,Finance Team,HIGH,CUST319,urgent charged twice,20,3
+TKT1785,complaint about incorrect bill,Billing Issue,Finance Team,HIGH,CUST765,complaint about incorrect bill,30,4
+TKT1062,asap quality issue,Product Defect,Quality Team,HIGH,CUST445,asap quality issue,18,3
+TKT1617,urgent package missing,Delivery Problem,Logistics Team,MEDIUM,CUST305,urgent package missing,22,3
+TKT1387,please help refund not received,Refund Request,Finance Team,MEDIUM,CUST576,please help refund not received,31,5
+TKT1005,customer id tracking not updated,Delivery Problem,Logistics Team,MEDIUM,CUST260,customer id tracking not updated,32,5
+TKT1480,my order refund status,Refund Request,Finance Team,MEDIUM,CUST489,my order refund status,22,4
+TKT1600,asap account access issue,Account Issue,IT Support Team,LOW,CUST203,asap account access issue,25,4
+TKT1277,transaction quality issue,Product Defect,Quality Team,HIGH,CUST540,transaction quality issue,25,3
+TKT1950,please help item broken,Product Defect,Quality Team,HIGH,CUST690,please help item broken,23,4
+TKT1879,my order wrong tax amount,Billing Issue,Finance Team,HIGH,CUST886,my order wrong tax amount,25,5
+TKT1280,customer id late shipment,Delivery Problem,Logistics Team,MEDIUM,CUST734,customer id late shipment,25,4
+TKT1247,asap wrong tax amount,Billing Issue,Finance Team,HIGH,CUST342,asap wrong tax amount,21,4
+TKT1574,please help damaged goods,Delivery Problem,Logistics Team,MEDIUM,CUST582,please help damaged goods,25,4
+TKT1107,I have an issue with cannot login,Account Issue,IT Support Team,LOW,CUST152,i have an issue with cannot login,33,7
+TKT1229,my order manufacturing defect,Product Defect,Quality Team,HIGH,CUST818,my order manufacturing defect,29,4
